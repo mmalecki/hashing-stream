@@ -1,0 +1,20 @@
+{
+  "name": "hashing-stream",
+  "author": "Maciej Małecki <maciej.malecki@notimplemented.org>",
+  "version": "0.0.0",
+  "description": "Pass thru stream which hashes incoming data",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mmalecki/hashing-stream.git"
+  },
+  "main": "./lib/hashing-stream",
+  "engines": {
+    "node": ">= 0.6"
+  },
+  "devDependencies": {
+    "tap": "0.2.x"
+  },
+  "scripts": {
+    "test": "tap test/*-test.js"
+  }
+}

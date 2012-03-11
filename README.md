@@ -7,6 +7,8 @@
 
 ## Usage
 ```js
+var HashingStream = require('hashing-stream').HashingStream;
+
 fs.createReadStream('fillerama.txt')
   .pipe(new HashingStream('sha1'))
   .on('end', function (hash) {

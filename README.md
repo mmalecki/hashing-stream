@@ -1,4 +1,4 @@
-# hashing-stream
+# hashing-stream [![Build Status](https://secure.travis-ci.org/mmalecki/hashing-stream.png)](http://travis-ci.org/mmalecki/hashing-stream)
 `hashing-stream` is a simple pass thru stream which hashes incoming data.
 
 ## Installation

@@ -1,7 +1,7 @@
 {
   "name": "hashing-stream",
   "author": "Maciej Małecki <maciej.malecki@notimplemented.org>",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Pass thru stream which hashes incoming data",
   "repository": {
     "type": "git",
